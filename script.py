@@ -4,8 +4,8 @@ import time
 import os
 
 # Configuration
-CLIENT_ID = "AKIAT4GVSAXXI2PN6X5C"
-KEY = "cnIm9HvtY5kqOQuh19Ae38H/jX7oDr1RN1GYBZ59"
+CLIENT_ID = "ID"
+KEY = "SECRET"
 
 # Token endpoints and scopes
 TOKEN_ENDPOINT = "https://login.microsoftonline.com/common/oauth2/v2.0/token"
